@@ -5,5 +5,5 @@
 Notes:
 1. Cert + key will be placed in the directory with your hosts.conf
 2. This script will only create a cert + key, & register it in the pki db; you must still reference the cert in your httpd config (e.g. apache or nginx)
-3. If your browser complainsi after this script is run, ensure you restarted your http daemon, and quit and restart your browser
+3. If your browser complains after this script is run, ensure you restarted your http daemon, and quit and restart your browser
 
